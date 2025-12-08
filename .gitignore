@@ -1,0 +1,14 @@
+node_modules
+dist
+build
+.env
+.vscode
+.DS_Store
+npm-debug.log
+.next
+*.tsbuildinfonode_modules/
+.next/
+dist/
+build/
+.env
+.env.local
